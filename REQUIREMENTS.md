@@ -1,0 +1,6 @@
+- Empty shopping cart returns 0 total price.
+- Total price for one apple --> 25 cents
+- Total price for one banana --> 35 cents
+- Total price for one orange --> 70 cents
+- Total price for list of ["apple", "apple"] → 1.00 euros
+- Total price for list of ["apple", "orange", "apple"] → 1.20 euros
